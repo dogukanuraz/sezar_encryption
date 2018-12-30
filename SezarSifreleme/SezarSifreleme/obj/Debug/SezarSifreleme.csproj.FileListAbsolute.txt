@@ -1,0 +1,18 @@
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\SezarSifreleme\SezarSifreleme\bin\Debug\SezarSifreleme.exe.config
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\SezarSifreleme\SezarSifreleme\bin\Debug\SezarSifreleme.exe
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\SezarSifreleme\SezarSifreleme\bin\Debug\SezarSifreleme.pdb
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.csprojResolveAssemblyReference.cache
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.Form1.resources
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.Properties.Resources.resources
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.csproj.GenerateResource.Cache
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.exe
+C:\Users\Doğukan\Documents\Visual Studio 2015\Projects\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.pdb
+C:\Users\Doğukan\Desktop\sezar\SezarSifreleme\SezarSifreleme\bin\Debug\SezarSifreleme.exe.config
+C:\Users\Doğukan\Desktop\sezar\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.exe
+C:\Users\Doğukan\Desktop\sezar\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.pdb
+C:\Users\Doğukan\Desktop\sezar\SezarSifreleme\SezarSifreleme\bin\Debug\SezarSifreleme.exe
+C:\Users\Doğukan\Desktop\sezar\SezarSifreleme\SezarSifreleme\bin\Debug\SezarSifreleme.pdb
+C:\Users\Doğukan\Desktop\sezar\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.csprojResolveAssemblyReference.cache
+C:\Users\Doğukan\Desktop\sezar\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.Form1.resources
+C:\Users\Doğukan\Desktop\sezar\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.Properties.Resources.resources
+C:\Users\Doğukan\Desktop\sezar\SezarSifreleme\SezarSifreleme\obj\Debug\SezarSifreleme.csproj.GenerateResource.Cache
